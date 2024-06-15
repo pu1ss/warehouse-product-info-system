@@ -1,6 +1,6 @@
 <?php
     define("SERVER_NAME","localhost");
-    define("USER_NAME","root");
-    define("PASSWORD","root");
-    define("DATABASE_NAME","warehouse_shipping_dept");
+    define("USER_NAME","4ezze");
+    define("PASSWORD","411230");
+    define("DATABASE_NAME","warehouse");
     define("TABLE_NAME","products");
